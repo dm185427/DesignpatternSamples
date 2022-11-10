@@ -1,0 +1,8 @@
+C:\Users\dm185427\source\repos\VisitorDesignPattern\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.csproj.AssemblyReference.cache
+C:\Users\dm185427\source\repos\VisitorDesignPattern\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\dm185427\source\repos\VisitorDesignPattern\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\dm185427\source\repos\VisitorDesignPattern\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.exe.config
+C:\Users\dm185427\source\repos\VisitorDesignPattern\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.exe
+C:\Users\dm185427\source\repos\VisitorDesignPattern\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.pdb
+C:\Users\dm185427\source\repos\VisitorDesignPattern\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.exe
+C:\Users\dm185427\source\repos\VisitorDesignPattern\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.pdb
